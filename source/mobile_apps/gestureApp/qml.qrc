@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Alarm.qml</file>
+        <file>SlideBar.qml</file>
+        <file>TimeDisplay.qml</file>
+        <file>LightControl.qml</file>
+        <file>PanelBackground.qml</file>
+        <file>SensorsDisplay.qml</file>
+        <file>BackGround.qml</file>
+        <file>WeatherDisplay.qml</file>
+        <file>WeatherIcon.qml</file>
+        <file>BigWeatherIcon.qml</file>
+        <file>ForecastIcon.qml</file>
+        <file>BluetoothConnection.qml</file>
+        <file>ControlMode.qml</file>
+    </qresource>
+</RCC>
